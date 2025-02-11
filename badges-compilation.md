@@ -5,7 +5,7 @@
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
 
 1. **Getting Started with TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/47812954/3WYFMVMH?sharingId=F8A653FA01C14D22)
-2. **Declare Variable Types in TypeScript**: [Badge](badge-link)
+2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/47812954/J5CGNWFT?sharingId=F8A653FA01C14D22)
 3. **Implement Interfaces in TypeScript**: [Badge](badge-link)
 4. **Develop Typed Functions in TypeScript**: [Badge](badge-link)
 5. **Declare and Instantiate Classes in TypeScript**: [Badge](badge-link)
@@ -15,6 +15,10 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 ## Reflections
 
-👀 **Getting Started with TypeScript**
+### 👀 Getting Started with TypeScript
 
 - In this module, I'm introduced to the TypeScript language, learn why it was created, and how to use it for JavaScript development.
+
+### ✔ Declare Variable Types in TypeScript
+
+- In this module I learned how to declare variables using primitive types, object types, using union and intersection types.
